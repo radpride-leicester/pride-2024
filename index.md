@@ -1,3 +1,5 @@
+For the PDF leaflet, see [here](/leaflet.pdf)
+
 # No Pigs At Pride
 ‘The First Pride Was a Riot’ is something you may have heard thrown around, and with good reason. The Stonewall Riots, which modern Pride evolved from, came about when police raided the Stonewall Inn - a straw that broketh the camel’s back after centuries of queerphobic state violence. 
 
